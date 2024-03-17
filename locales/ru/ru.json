@@ -1,0 +1,27 @@
+{
+    "settings": {
+        "title": "Настройки",
+        "drawerLabel": "Настройки",
+        "language": "Русский",
+        "selectLanguage": "Выберите язык"
+    },
+    "transportList": {
+        "title": "Список ТС",
+        "drawerLabel": "Список ТС",
+        "tabBarLabelList": "Список",
+        "tabBarLabelMap": "Карта",
+        "cargo": "Грузовой",
+        "special": "Спецтранспорт",
+        "passenger": "Пассажирский",
+        "all": "Все",
+        "applyFilter": "Применить фильтр",
+        "transportNumberCaption": "Номер ТС",
+        "transportDriverCaption": "Водитель",
+        "transportCategoryCaption": "Категория",
+        "transportPrefix": "TC #"
+    },
+    "transportDetail": {
+        "phoneNumberCaption": "Телефон",
+        "message": "Добрый день, подскажите пожалуйста, какой номер заказа у вас сейчас в работе"
+    }
+}

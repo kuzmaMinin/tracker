@@ -1,0 +1,27 @@
+{
+    "settings": {
+        "title": "Settings",
+        "drawerLabel": "Settings",
+        "language": "English",
+        "selectLanguage": "Select Language"
+    },
+    "transportList": {
+        "title": "Transport List",
+        "drawerLabel": "Transport List",
+        "tabBarLabelList": "List",
+        "tabBarLabelMap": "Map",
+        "cargo": "Cargo",
+        "special": "Special",
+        "passenger": "Passenger",
+        "all": "All",
+        "applyFilter": "Apply Filter",
+        "transportNumberCaption": "Number",
+        "transportDriverCaption": "Driver",
+        "transportCategoryCaption": "Category",
+        "transportPrefix": "T #"
+    },
+    "transportDetail": {
+        "phoneNumberCaption": "Phone",
+        "message": "Hello! Please, tell me what order number you are currently working on"
+    }
+}

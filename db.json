@@ -1,0 +1,27 @@
+{
+    "tracks": [
+        { "id": "2a4d60dc-9e07-4e0f-95f7-73e4fe12cd72", "transportNumber": "000001", "category": "cargo", "driverName": "Bob", "driverId": "37e85b71-8374-4bcf-ae2d-431785ef16bd", "latitude": "44.58347", "longtitude": "38.076098" },
+        { "id": "b7f260ee-d231-4826-8b95-9c7fd963fa4a", "transportNumber": "000002", "category": "passenger", "driverName": "John", "driverId": "38cfcf43-cce7-43d0-8271-db1b8f3cd02f", "latitude": "47.345024", "longtitude": "39.872406" },
+        { "id": "bae3c414-b4d5-4a9c-9695-ad12e83d982e", "transportNumber": "000003", "category": "special", "driverName": "Sam", "driverId": "bca50920-1bc8-4fe5-8042-1045c98c301d", "latitude": "48.844678", "longtitude": "44.378943" },
+        { "id": "abb68ea7-0ba4-46ba-808a-4efc37c9469d", "transportNumber": "000004", "category": "cargo", "driverName": "Dan", "driverId": "ad915995-a2b4-409e-ab31-285798b0b321", "latitude": "50.664404", "longtitude": "45.466661" },
+        { "id": "a2c637a0-6ac1-48c5-9f17-420332ec659d", "transportNumber": "000005", "category": "special", "driverName": "Mike", "driverId": "c0c47879-7ad6-40a7-8f49-477bcd28e63c", "latitude": "44.729228", "longtitude": "37.815269" },
+        { "id": "470dda67-157a-4ce4-a3b7-7023296ce7e7", "transportNumber": "000006", "category": "passenger", "driverName": "Donald", "driverId": "38a9d516-8359-484f-b247-d398170d9573", "latitude": "44.737662", "longtitude": "37.783468" },
+        { "id": "9c79d295-42b8-4700-bf9b-a4c15826b5b7", "transportNumber": "000007", "category": "passenger", "driverName": "Mary", "driverId": "2b822ca6-9a64-4456-8b7d-5c2d3f26ba5b", "latitude": "43.913092", "longtitude": "39.332107" },
+        { "id": "4ccb363e-0256-4b79-834d-ffb543354416", "transportNumber": "000008", "category": "passenger", "driverName": "Ronald", "driverId": "72e21526-ac94-4e61-ba5c-7deba68fe962", "latitude": "46.763864", "longtitude": "48.496461" },
+        { "id": "5274cfed-e8d3-4a16-85f6-44bac6a06583", "transportNumber": "000009", "category": "cargo", "driverName": "Andy", "driverId": "a04319d0-fdcc-48ec-b21d-50ab87e99293", "latitude": "53.511315", "longtitude": "50.418523" },
+        { "id": "1d4444b5-ee7d-4291-8cbb-5fafbedae122", "transportNumber": "000010", "category": "special", "driverName": "Conor", "driverId": "ad6ed6e3-5246-46c8-a418-e5d75b5f2394", "latitude": "51.577677", "longtitude": "39.496697" }
+    ],
+    "drivers": [
+        {  "id": "37e85b71-8374-4bcf-ae2d-431785ef16bd",  "name": "Bob", "phone": "+7-920-888-90-00" }, 
+        {  "id": "38cfcf43-cce7-43d0-8271-db1b8f3cd02f",  "name": "John", "phone": "+7-920-888-90-01" },
+        {  "id": "bca50920-1bc8-4fe5-8042-1045c98c301d",  "name": "Sam", "phone": "+7-920-888-90-02" }, 
+        {  "id": "ad915995-a2b4-409e-ab31-285798b0b321",  "name": "Dan", "phone": "+7-920-888-90-03" }, 
+        {  "id": "c0c47879-7ad6-40a7-8f49-477bcd28e63c",  "name": "Mike", "phone": "+7-920-888-90-04" }, 
+        {  "id": "38a9d516-8359-484f-b247-d398170d9573",  "name": "Donald", "phone": "+7-920-888-90-05" }, 
+        {  "id": "2b822ca6-9a64-4456-8b7d-5c2d3f26ba5b",  "name": "Mary", "phone": "+7-920-888-90-06" },
+        {  "id": "72e21526-ac94-4e61-ba5c-7deba68fe962",  "name": "Ronald", "phone": "+7-920-888-90-07" },
+        {  "id": "a04319d0-fdcc-48ec-b21d-50ab87e99293",  "name": "Andy", "phone": "+7-920-888-90-08" },
+        {  "id": "ad6ed6e3-5246-46c8-a418-e5d75b5f2394",  "name": "Conor", "phone": "+7-920-888-90-09" }
+         
+    ]
+}
